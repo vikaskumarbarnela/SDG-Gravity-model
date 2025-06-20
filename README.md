@@ -14,9 +14,9 @@ c = 299792458.0   # Speed of light in m/s
 # Assumed Galaxy Properties (typical spiral galaxy like the Milky Way)
 M_galaxy_baryonic = 1.5e11 * M_solar  # Total baryonic mass in kg
 
-# SDG Parameters (These are free parameters of your theory)
+# SDG Parameters (These are free parameters of theory)
 # Chosen to produce a good fit in this toy model.
-# kappa_s must be negative for stability, as per your paper.
+# kappa_s must be negative for stability, as per paper.
 
 # --- SDG Parameters (TUNED FOR A CLOSE FIT) ---
 # By tuning the parameters, we show the model's flexibility.
